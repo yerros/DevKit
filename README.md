@@ -4,7 +4,9 @@
 [![Platform](https://img.shields.io/badge/Platform-macOS%2013.0+-blue.svg?style=flat-square)](https://apple.com/macos)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 
-**DevKit v2** is a professional macOS menu bar and window utility designed specifically for developers running Homebrew-based local development environments on Intel Macs. It consolidates daily developer chores into a single, high-performance native application with a stunning "Liquid Glass" aesthetic.
+**DevKit v2** is a personal macOS utility designed to streamline my local development workflow. It is a high-performance native application with a stunning "Liquid Glass" aesthetic, built to consolidate the daily chores I encounter while developing on Intel-based Macs.
+
+> **Note:** This is a personal project tailored specifically to my development needs and environment. While shared as open-source, it is primarily optimized for a Homebrew-based setup on Intel Mac.
 
 ---
 
