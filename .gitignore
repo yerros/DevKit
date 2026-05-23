@@ -1,0 +1,10 @@
+build
+.build
+
+# AI & Specs
+GEMINI.md
+CLAUDE.md
+AGENT_SPEC.md
+TECH_SPEC.md
+UI_SPEC.md
+DevKit_PRD.md
