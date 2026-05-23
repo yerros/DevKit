@@ -3,7 +3,7 @@ set -e
 
 APP_NAME="DevKit"
 SCHEME="DevKit"
-BUILD_DIR="./build/Release"
+BUILD_DIR="./build/Build/Products/Release"
 DMG_NAME="DevKit-1.0.0.dmg"
 DMG_DIR="./dist"
 
